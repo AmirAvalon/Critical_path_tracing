@@ -1,2 +1,2 @@
-# Critical_path_tracing
+# Critical path tracing
 Fault simluation with critical path tracing algorithm
